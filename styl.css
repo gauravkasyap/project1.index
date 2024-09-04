@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    
+}
+body{
+background-size: cover;
+width: 100vw;
+height: 100vh;
+}
+
+.divr{
+    text-align: center;
+    background-color: rgb(32, 36, 241);
+    padding-top: 25px;
+    padding-bottom: 2px;
+    margin-left:20px ;
+    margin-right: 20px;
+}
+img{
+    border-radius: 1000px;
+    float: left;
+    padding: 0%;
+    margin-left: 100px;
+    width: 125px;
+}
+#h1{
+    text-align: center;
+    margin-right: 200px;
+}
+select{
+    border: none;
+    background-color: rgb(32, 36, 241);
+    color: black;
+    width: 20px;
+}
+option{
+    font-size: 20px;
+}
+.app{
+    text-decoration: none;
+    color: black;
+    outline: none;
+    display: inline-block;
+    margin-left:1% ;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 5%;
+
+}
+a b{
+        font-size: 20px;
+        
+    }
+label{
+    font-size: 20px;
+}    
+ul{
+    padding: 0;
+    margin-top: 10px;
+    width: 100%;
+}
+li{
+    display: inline;
+    outline: none;
+    margin-right:50px ;
+    margin-bottom: 20px;
+}
+h2{
+    text-align: center;
+}
+.paragraph{
+    display: inline;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 25px;
+   margin-right: 25px;
+}
+.anyl{
+    animation: colorchange 0.3s ease-in 0.1s infinite alternate-reverse;
+}
+@keyframes colorchange{
+    0%{color:blue ;}
+    25%{color: rgb(240, 8, 8);}
+    50%{color:rgb(10, 240, 10);}
+    75%{color: rgb(218, 233, 8);}
+    100%{coior:rgb(238, 15, 208);}
+}
+
+.pass{ 
+    color: rgb(250, 7, 7);
+    text-shadow: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.hevry{
+    text-decoration: none;
+    text-underline-offset:8px ;
+    font-weight: bold;
+    text-align: center;
+    background-color: aqua;
+    box-sizing: content-box;
+    margin-left: 550px;
+    margin-right:550px ;
+    font-size: 30px;
+    height: 40px;
+    color: rgb(248, 248, 248);
+}
+li:hover{
+    color: brown;
+
+}
+.app:hover{
+    color: brown;
+}     
+select:hover{
+    color: brown;
+    border: none;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+th{
+    border: 2px solid white;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+ th a{
+    text-decoration: none;
+}
+.b6{
+    display: inline;
+}
+.nice{
+    margin-left: 25px;
+    margin-right: 1100px;
+    border: 2px solid brown;
+    text-align:center ;
+}
+.game{
+    font-size: 20px;
+    background-color: brown;
+    border: 2px solid brown;
+    border-right: 120px;
+}
+.lop{
+    text-align: center;
+
+}
+.nice1{
+    margin-right: 25px;
+    margin-left: 1100px;
+    border: 2px solid brown;
+    text-align:center ;
+}
+.game1{
+    font-size: 20px;
+    background-color: brown;
+    border: 2px solid brown;
+    border-right: 120px;
+}
+ul a { 
+    text-decoration: none;
+}
+
